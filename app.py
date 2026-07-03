@@ -19,7 +19,7 @@ st.markdown("""
     
     /* Header Gradient */
     .gradient-text {
-        background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+        background: linear-gradient(90deg, #ef4444, #f59e0b);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
         font-weight: 600;
@@ -44,35 +44,35 @@ st.markdown("""
     /* User Message distinct style */
     .stChatMessage[data-testid="stChatMessage"]:nth-child(even) {
         background: rgba(15, 23, 42, 0.8);
-        border: 1px solid rgba(59, 130, 246, 0.2);
+        border: 1px solid rgba(239, 68, 68, 0.2);
     }
     
     /* Buttons with micro-animations */
     .stButton>button {
-        background: rgba(59, 130, 246, 0.1);
-        color: #60a5fa;
+        background: rgba(239, 68, 68, 0.1);
+        color: #f87171;
         border-radius: 8px;
-        border: 1px solid rgba(59, 130, 246, 0.3);
+        border: 1px solid rgba(239, 68, 68, 0.3);
         width: 100%;
         font-weight: 500;
         transition: all 0.3s ease;
     }
     .stButton>button:hover {
-        background: rgba(59, 130, 246, 0.2);
-        border-color: rgba(59, 130, 246, 0.6);
-        box-shadow: 0 0 15px rgba(59, 130, 246, 0.3);
+        background: rgba(239, 68, 68, 0.2);
+        border-color: rgba(239, 68, 68, 0.6);
+        box-shadow: 0 0 15px rgba(239, 68, 68, 0.3);
         transform: scale(1.02);
     }
     
     /* Primary action button (New Chat) */
     .primary-btn>div>button {
-        background: linear-gradient(90deg, #3b82f6, #2563eb);
+        background: linear-gradient(90deg, #ef4444, #dc2626);
         color: white;
         border: none;
     }
     .primary-btn>div>button:hover {
-        background: linear-gradient(90deg, #2563eb, #1d4ed8);
-        box-shadow: 0 0 20px rgba(59, 130, 246, 0.5);
+        background: linear-gradient(90deg, #dc2626, #b91c1c);
+        box-shadow: 0 0 20px rgba(239, 68, 68, 0.5);
     }
     
     /* Sidebar Chat List Buttons (looks like links) */
