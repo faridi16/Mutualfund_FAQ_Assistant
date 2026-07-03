@@ -1,0 +1,46 @@
+name: Automated Data Ingestion Scheduler
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Runs at 10:30 AM IST (05:00 UTC) every day
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    
+    # Needs permissions to push commits back to the repo
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.9
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Data Scraper (Phase 2)
+        run: python scraper.py
+
+      - name: Run JSON Parser (Phase 3)
+        run: python parse_data.py
+
+      - name: Run ChromaDB Indexer (Phases 4 & 5)
+        run: python build_index.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/ chroma_db/
+          git commit -m "Automated daily NAV and Mutual Fund data update" || echo "No changes to commit"
+          git push

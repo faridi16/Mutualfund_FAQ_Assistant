@@ -1,0 +1,26 @@
+Loading ChromaDB from ./chroma_db...
+
+--- Database Overview ---
+Total Chunks Ingested: 30
+Embedding Dimensions: 384 (Expected 384 for bge-small)
+
+--- Verifying Embeddings (Showing first 3 chunks) ---
+Chunk 1:
+  Fund: HDFC Mid Cap Fund Direct Growth (Key fund facts)
+  Text Snippet: HDFC Mid Cap Fund Direct Growth key fund facts. NAV (02 Jul '26): ₹229.58. ...
+  Vector Snippet (First 5 values): [ 0.02500468 -0.06187092 -0.04303683 -0.04947229 -0.03462811]
+  Vector Shape: [384 values]
+
+Chunk 2:
+  Fund: HDFC Mid Cap Fund Direct Growth (Exit load)
+  Text Snippet: Exit load of 1% if redeemed within 1 year....
+  Vector Snippet (First 5 values): [-0.06811561 -0.04299022  0.01049443 -0.01599298 -0.04906169]
+  Vector Shape: [384 values]
+
+Chunk 3:
+  Fund: HDFC Mid Cap Fund Direct Growth (Benchmark)
+  Text Snippet: Fund benchmark: NIFTY Midcap 150 Total Return Index...
+  Vector Snippet (First 5 values): [-0.04360193 -0.0632019  -0.01979445  0.01749099 -0.01285236]
+  Vector Shape: [384 values]
+
+... Output truncated for readability. All embeddings are successfully verified!

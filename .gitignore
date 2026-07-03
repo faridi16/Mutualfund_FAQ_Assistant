@@ -1,0 +1,17 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log
