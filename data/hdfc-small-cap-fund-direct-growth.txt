@@ -500,7 +500,7 @@ Equity Small Cap
 Rank (
 Equity Small Cap
 )
-29
+30
 17
 4
 --
