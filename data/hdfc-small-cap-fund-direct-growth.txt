@@ -64,10 +64,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+13.76
++13.10
 %
 3Y annualised
--0.59
+-1.69
 %
 1D
 1M
@@ -76,8 +76,8 @@ Blog
 3Y
 5Y
 All
-NAV: 07 Jul '26
-₹158.06
+NAV: 08 Jul '26
+₹155.39
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -486,10 +486,10 @@ Name
 10Y
 All
 Fund returns
-+13.8%
-+16.7%
-+18.3%
-+18.5%
++13.1%
++16.3%
++18.1%
++18.4%
 Category average (
 Equity Small Cap
 )
@@ -500,7 +500,7 @@ Equity Small Cap
 Rank (
 Equity Small Cap
 )
-32
+31
 17
 4
 --
@@ -537,24 +537,24 @@ Name
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+7.56%
-+28.65%
++5.71%
++27.86%
 27,219.13
 Invesco India Smallcap Fund Direct Growth
-+11.46%
-+25.15%
++10.18%
++24.49%
 13,420.41
 Sundaram Small Cap Fund Direct Growth
-+11.85%
-+20.05%
++9.87%
++19.35%
 3,680.99
 Nippon India Small Cap Fund Direct Growth
-+4.77%
-+18.56%
++2.98%
++17.81%
 74,604.07
 Axis Small Cap Fund Direct Growth
-+4.62%
-+17.04%
++3.25%
++16.38%
 27,840.05
 Compare
 Fund management
@@ -629,7 +629,7 @@ HDFC Small Cap Fund Direct Growth
 HDFC Children's Fund Direct Plan
 About
 HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 07 Jul 2026 is ₹158.06.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 08 Jul 2026 is ₹155.39.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
