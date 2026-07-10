@@ -64,10 +64,10 @@ Returns on your systematic withdrawal plan
 Pricing
 Brokerage and charges on Groww
 Blog
-+13.10
++13.61
 %
 3Y annualised
--1.69
++1.39
 %
 1D
 1M
@@ -76,12 +76,12 @@ Blog
 3Y
 5Y
 All
-NAV: 08 Jul '26
-₹155.39
+NAV: 09 Jul '26
+₹157.55
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹38,809.48 Cr
+₹40,416.80 Cr
 Expense ratio
 0.77%
 Rating
@@ -486,10 +486,10 @@ Name
 10Y
 All
 Fund returns
-+13.1%
-+16.3%
-+18.1%
-+18.4%
++13.6%
++16.5%
++18.3%
++18.5%
 Category average (
 Equity Small Cap
 )
@@ -537,24 +537,24 @@ Name
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+5.71%
-+27.86%
++7.20%
++28.52%
 27,219.13
 Invesco India Smallcap Fund Direct Growth
-+10.18%
-+24.49%
++11.72%
++25.17%
 13,420.41
 Sundaram Small Cap Fund Direct Growth
-+9.87%
-+19.35%
++11.04%
++19.94%
 3,680.99
 Nippon India Small Cap Fund Direct Growth
-+2.98%
-+17.81%
++4.07%
++18.39%
 74,604.07
 Axis Small Cap Fund Direct Growth
-+3.25%
-+16.38%
++4.83%
++17.06%
 27,840.05
 Compare
 Fund management
@@ -629,7 +629,7 @@ HDFC Small Cap Fund Direct Growth
 HDFC Children's Fund Direct Plan
 About
 HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 08 Jul 2026 is ₹155.39.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,238 Cr and the Latest NAV as of 09 Jul 2026 is ₹157.55.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
