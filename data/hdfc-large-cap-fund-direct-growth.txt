@@ -349,7 +349,7 @@ Equity Large Cap
 Rank (
 Equity Large Cap
 )
-38
+40
 14
 12
 --
