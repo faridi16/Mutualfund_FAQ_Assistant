@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+40.79
++41.00
 %
 3Y annualised
-+0.22
++0.53
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 14 Jul '26
-₹35.93
+NAV: 15 Jul '26
+₹36.12
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -159,10 +159,10 @@ Name
 3Y
 All
 Fund returns
--21.4%
-+86.9%
-+40.8%
-+41.5%
+-21.0%
++91.5%
++41.0%
++41.6%
 Category average (
 Commodities Silver
 )
@@ -174,8 +174,8 @@ Rank (
 Commodities Silver
 )
 --
-8
-3
+9
+2
 --
 Understand terms
 Expense ratio
@@ -291,7 +291,7 @@ HDFC Nifty India Consumption Index Fund Direct Growth
 HDFC Nifty Auto Index Fund Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 14 Jul 2026 is ₹35.93.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 15 Jul 2026 is ₹36.12.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -369,7 +369,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.8.2
+7.8.3
 Share Market
 Indices
 F&O
@@ -689,16 +689,15 @@ PPF Calculator
 GST Calculator
 Car Loan EMI Calculator
 What is IPO?
+How to Apply for an IPO
+Open IPOs
+What is Grey Market Premium?
+Upcoming IPOs
+Mainboard IPOs
+Closed IPOs
+SME IPOs
 IPO Subscription Status
 IPO Allotment Status
-Open IPOs
-How to Apply for an IPO
-Upcoming IPOs
-What is Grey Market Premium?
-Closed IPOs
-Mainboard IPOs
-IPO GMP
-SME IPOs
 NFO
 Pricing
 Trust & Safety

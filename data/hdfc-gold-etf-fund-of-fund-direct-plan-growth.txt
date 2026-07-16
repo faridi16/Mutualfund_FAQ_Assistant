@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+31.82
++31.94
 %
 3Y annualised
--0.67
++0.36
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 14 Jul '26
-₹43.77
+NAV: 15 Jul '26
+₹43.93
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -160,9 +160,9 @@ Name
 10Y
 All
 Fund returns
-+31.8%
-+22.7%
-+15.1%
++31.9%
++22.6%
++15.3%
 +10.7%
 Category average (
 Commodities Gold
@@ -174,9 +174,9 @@ Commodities Gold
 Rank (
 Commodities Gold
 )
-8
 6
-5
+6
+3
 --
 Understand terms
 Expense ratio
@@ -290,7 +290,7 @@ HDFC Nifty India Consumption Index Fund Direct Growth
 HDFC Nifty Auto Index Fund Direct Growth
 About
 HDFC Gold ETF Fund of Fund Direct Plan Growth
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 14 Jul 2026 is ₹43.77.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 15 Jul 2026 is ₹43.93.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -368,7 +368,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.8.2
+7.8.3
 Share Market
 Indices
 F&O
@@ -688,16 +688,15 @@ PPF Calculator
 GST Calculator
 Car Loan EMI Calculator
 What is IPO?
+How to Apply for an IPO
+Open IPOs
+What is Grey Market Premium?
+Upcoming IPOs
+Mainboard IPOs
+Closed IPOs
+SME IPOs
 IPO Subscription Status
 IPO Allotment Status
-Open IPOs
-How to Apply for an IPO
-Upcoming IPOs
-What is Grey Market Premium?
-Closed IPOs
-Mainboard IPOs
-IPO GMP
-SME IPOs
 NFO
 Pricing
 Trust & Safety
