@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+13.84
++13.90
 %
 3Y annualised
-+0.47
++0.21
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 15 Jul '26
-₹160.35
+NAV: 16 Jul '26
+₹160.68
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -98,27 +98,27 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹61,880
+₹61,987
 +
-3.13
+3.31
 %
 3 years
 ₹1,80,000
-₹2,00,160
+₹2,00,526
 +
-11.20
+11.40
 %
 5 years
 ₹3,00,000
-₹4,28,570
+₹4,29,288
 +
-42.86
+43.10
 %
 10 years
 ₹6,00,000
-₹15,83,785
+₹15,86,317
 +
-163.96
+164.39
 %
 Holdings (
 85
@@ -489,8 +489,8 @@ Name
 10Y
 All
 Fund returns
-+13.8%
-+16.2%
++13.9%
++16.0%
 +18.4%
 +18.6%
 Category average (
@@ -540,24 +540,24 @@ Name
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+6.67%
-+28.36%
++5.91%
++28.21%
 28,466.18
 Invesco India Smallcap Fund Direct Growth
-+11.32%
-+24.49%
++10.93%
++24.52%
 13,384.88
 Sundaram Small Cap Fund Direct Growth
-+10.90%
-+19.86%
++10.18%
++19.60%
 3,871.80
 Nippon India Small Cap Fund Direct Growth
-+4.66%
-+18.25%
++4.29%
++18.24%
 78,407.03
 Axis Small Cap Fund Direct Growth
-+5.43%
-+16.88%
++5.40%
++16.91%
 29,393.79
 Compare
 Fund management
@@ -632,7 +632,7 @@ HDFC Small Cap Fund Direct Growth
 HDFC Children's Fund Direct Plan
 About
 HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 15 Jul 2026 is ₹160.35.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 16 Jul 2026 is ₹160.68.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
