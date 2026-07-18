@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 16 Jul '26
-₹160.68
+NAV: 17 Jul '26
+₹160.53
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -540,24 +540,24 @@ Name
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+5.91%
-+28.21%
++5.20%
++27.90%
 28,466.18
 Invesco India Smallcap Fund Direct Growth
-+10.93%
-+24.52%
++9.97%
++24.14%
 13,384.88
 Sundaram Small Cap Fund Direct Growth
-+10.18%
-+19.60%
++9.08%
++19.12%
 3,871.80
 Nippon India Small Cap Fund Direct Growth
-+4.29%
-+18.24%
++3.59%
++17.75%
 78,407.03
 Axis Small Cap Fund Direct Growth
-+5.40%
-+16.91%
++4.12%
++16.56%
 29,393.79
 Compare
 Fund management
@@ -632,7 +632,7 @@ HDFC Small Cap Fund Direct Growth
 HDFC Children's Fund Direct Plan
 About
 HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 16 Jul 2026 is ₹160.68.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 17 Jul 2026 is ₹160.53.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
