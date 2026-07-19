@@ -475,7 +475,7 @@ Equity Mid Cap
 Rank (
 Equity Mid Cap
 )
-13
+14
 3
 5
 --

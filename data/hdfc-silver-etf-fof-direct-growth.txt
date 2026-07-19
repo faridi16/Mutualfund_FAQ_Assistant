@@ -175,7 +175,7 @@ Commodities Silver
 )
 --
 7
-2
+5
 --
 Understand terms
 Expense ratio

@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+31.94
++31.79
 %
 3Y annualised
-+0.07
+-0.60
 %
 1D
 1M
@@ -98,27 +98,27 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹64,248
+₹63,872
 +
-7.08
+6.45
 %
 3 years
 ₹1,80,000
-₹2,91,399
+₹2,89,487
 +
-61.89
+60.83
 %
 5 years
 ₹3,00,000
-₹6,02,185
+₹5,98,171
 +
-100.73
+99.39
 %
 10 years
 ₹6,00,000
-₹17,29,392
+₹17,18,357
 +
-188.23
+186.39
 %
 Holdings (
 3
@@ -160,8 +160,8 @@ Name
 10Y
 All
 Fund returns
-+31.9%
-+22.7%
++31.8%
++22.6%
 +15.3%
 +10.7%
 Category average (
@@ -174,9 +174,9 @@ Commodities Gold
 Rank (
 Commodities Gold
 )
-7
+8
 5
-3
+4
 --
 Understand terms
 Expense ratio
