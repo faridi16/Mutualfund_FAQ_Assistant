@@ -69,7 +69,7 @@ Loan against securities and Personal loan
 +12.68
 %
 3Y annualised
--1.24
++0.23
 %
 1D
 1M
@@ -98,27 +98,27 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹60,747
+₹60,867
 +
-1.24
+1.44
 %
 3 years
 ₹1,80,000
-₹1,96,186
+₹1,96,575
 +
-8.99
+9.21
 %
 5 years
 ₹3,00,000
-₹4,19,339
+₹4,20,143
 +
-39.78
+40.05
 %
 10 years
 ₹6,00,000
-₹15,47,937
+₹15,50,411
 +
-157.99
+158.40
 %
 Holdings (
 85
