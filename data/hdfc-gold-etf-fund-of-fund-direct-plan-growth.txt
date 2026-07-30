@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+32.16
++32.11
 %
 3Y annualised
--1.46
+-0.04
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 28 Jul '26
-₹44.09
+NAV: 29 Jul '26
+₹44.07
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -98,27 +98,27 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹64,133
+₹64,089
 +
-6.89
+6.82
 %
 3 years
 ₹1,80,000
-₹2,89,379
+₹2,89,020
 +
-60.77
+60.57
 %
 5 years
 ₹3,00,000
-₹5,98,861
+₹5,98,171
 +
-99.62
+99.39
 %
 10 years
 ₹6,00,000
-₹17,23,865
+₹17,22,027
 +
-187.31
+187.00
 %
 Holdings (
 3
@@ -160,9 +160,9 @@ Name
 10Y
 All
 Fund returns
-+32.2%
-+23.1%
-+15.3%
++32.1%
++22.9%
++15.4%
 +10.7%
 Category average (
 Commodities Gold
@@ -175,7 +175,7 @@ Rank (
 Commodities Gold
 )
 7
-5
+6
 3
 --
 Understand terms
@@ -292,7 +292,7 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 About
 HDFC Gold ETF Fund of Fund Direct Plan Growth
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 28 Jul 2026 is ₹44.09.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 29 Jul 2026 is ₹44.07.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -370,7 +370,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.8.5
+7.8.7
 Share Market
 Indices
 F&O
@@ -732,6 +732,8 @@ Download Forms
 Information Security Practices
 Investor Charter and Grievance
 Bug Bounty
+Groww Pay - Terms of use
+Groww Pay - Privacy policy
 Mutual Funds
 :
 A

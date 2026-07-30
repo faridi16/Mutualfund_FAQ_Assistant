@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+41.09
++41.19
 %
 3Y annualised
--3.29
++0.31
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 28 Jul '26
-₹35.59
+NAV: 29 Jul '26
+₹35.69
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -97,27 +97,25 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹15,286
-+
-1.91
+₹14,191
+-5.39
 %
 6 months
 ₹30,000
-₹33,745
-+
-12.48
+₹27,473
+-8.42
 %
 1 year
 ₹60,000
-₹95,712
+₹68,896
 +
-59.52
+14.83
 %
 3 years
 ₹1,80,000
-₹4,63,305
+₹3,60,383
 +
-157.39
+100.21
 %
 Holdings (
 3
@@ -159,10 +157,10 @@ Name
 3Y
 All
 Fund returns
--38.7%
-+87.2%
-+41.1%
-+40.6%
+-41.9%
++87.1%
++41.2%
++40.7%
 Category average (
 Commodities Silver
 )
@@ -293,7 +291,7 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 28 Jul 2026 is ₹35.59.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 29 Jul 2026 is ₹35.69.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -371,7 +369,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.8.5
+7.8.7
 Share Market
 Indices
 F&O
@@ -733,6 +731,8 @@ Download Forms
 Information Security Practices
 Investor Charter and Grievance
 Bug Bounty
+Groww Pay - Terms of use
+Groww Pay - Privacy policy
 Mutual Funds
 :
 A
