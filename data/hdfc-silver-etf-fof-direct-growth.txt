@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+42.06
++42.17
 %
 3Y annualised
-+0.09
++0.21
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 03 Aug '26
-₹35.71
+NAV: 04 Aug '26
+₹35.78
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -97,25 +97,25 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹14,073
--6.18
+₹14,129
+-5.81
 %
 6 months
 ₹30,000
-₹26,876
--10.41
+₹26,969
+-10.10
 %
 1 year
 ₹60,000
-₹65,689
+₹65,794
 +
-9.48
+9.66
 %
 3 years
 ₹1,80,000
-₹3,62,549
+₹3,62,882
 +
-101.42
+101.60
 %
 Holdings (
 3
@@ -157,10 +157,10 @@ Name
 3Y
 All
 Fund returns
--16.7%
-+93.0%
-+42.1%
-+40.5%
+-22.3%
++89.5%
++42.2%
++40.6%
 Category average (
 Commodities Silver
 )
@@ -172,8 +172,8 @@ Rank (
 Commodities Silver
 )
 --
+10
 5
-4
 --
 Understand terms
 Expense ratio
@@ -291,7 +291,7 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 03 Aug 2026 is ₹35.71.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,44,244 Cr and the Latest NAV as of 04 Aug 2026 is ₹35.78.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -369,7 +369,7 @@ PMS
 2026
 Groww. All rights reserved.
 Version:
-7.8.9
+7.9.1
 Share Market
 Indices
 F&O
