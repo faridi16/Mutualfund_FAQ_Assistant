@@ -174,7 +174,7 @@ Rank (
 Commodities Silver
 )
 --
-8
+9
 5
 --
 Understand terms
