@@ -175,7 +175,7 @@ Rank (
 Commodities Gold
 )
 8
-6
+5
 3
 --
 Understand terms
