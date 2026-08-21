@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+12.86
++12.82
 %
 3Y annualised
--0.26
+-0.06
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 19 Aug '26
-₹161.36
+NAV: 20 Aug '26
+₹161.27
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -488,8 +488,8 @@ Name
 10Y
 All
 Fund returns
-+12.9%
-+16.2%
++12.8%
++16.8%
 +17.9%
 +18.5%
 Category average (
@@ -539,24 +539,24 @@ Name
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+11.62%
-+26.81%
++12.37%
++27.07%
 31,103.03
 Invesco India Smallcap Fund Direct Growth
-+15.19%
-+24.73%
++15.87%
++25.11%
 14,474.79
 Union Small Cap Fund Direct Growth
-+23.34%
-+19.91%
++23.33%
++20.02%
 2,401.95
 Sundaram Small Cap Fund Direct Growth
-+17.71%
-+19.27%
++18.33%
++19.70%
 3,922.31
 Nippon India Small Cap Fund Direct Growth
-+10.21%
-+17.74%
++10.63%
++17.97%
 78,956.77
 Compare
 Fund management
@@ -631,7 +631,7 @@ HDFC Small Cap Fund Direct Growth
 HDFC Children's Fund Direct Plan
 About
 HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 19 Aug 2026 is ₹161.36.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 20 Aug 2026 is ₹161.27.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
@@ -711,7 +711,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-7.9.5
+7.9.6
 Share Market
 Indices
 F&O
