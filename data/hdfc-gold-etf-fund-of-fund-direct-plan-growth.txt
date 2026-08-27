@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+38.44
++38.14
 %
 3Y annualised
-+1.41
+-0.26
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 24 Aug '26
-₹50.19
+NAV: 26 Aug '26
+₹49.90
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -130,15 +130,15 @@ Assets
 HDFC Gold ETF
 Unspecified
 Mutual Fund
-99.99%
+100.05%
 Repo
 Unspecified
 Repo
-0.15%
+0.04%
 Net Payables
 Unspecified
 Net Payables
--0.14%
+-0.09%
 Minimum investments
 Min. for 1st investment
 ₹100
@@ -160,8 +160,8 @@ Name
 10Y
 All
 Fund returns
-+38.4%
-+26.4%
++38.1%
++26.5%
 +16.7%
 +11.7%
 Category average (
@@ -174,8 +174,8 @@ Commodities Gold
 Rank (
 Commodities Gold
 )
-7
-4
+8
+5
 3
 --
 Understand terms
@@ -223,9 +223,9 @@ HDFC BSE Sensex Index Fund Direct Growth
 HDFC Equity Savings Direct Plan Growth
 HDFC Multi Asset Allocation Fund Direct Growth
 HDFC Arbitrage Fund Direct Growth
-HDFC Retirement Savings Fund Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC NIFTY 50 ETF IDCW
 HDFC NIFTY50 Equal Weight Index Fund Direct Growth
 HDFC Developed World Overseas Equity Passive FoF Direct Growth
@@ -266,9 +266,9 @@ HDFC BSE Sensex Index Fund Direct Growth
 HDFC Equity Savings Direct Plan Growth
 HDFC Multi Asset Allocation Fund Direct Growth
 HDFC Arbitrage Fund Direct Growth
-HDFC Retirement Savings Fund Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC NIFTY50 Equal Weight Index Fund Direct Growth
 HDFC Developed World Overseas Equity Passive FoF Direct Growth
 HDFC NIFTY Next 50 Index Fund Direct Growth
@@ -293,7 +293,7 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 About
 HDFC Gold ETF Fund of Fund Direct Plan Growth
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 24 Aug 2026 is ₹50.19.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 26 Aug 2026 is ₹49.90.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -373,7 +373,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-7.9.6
+7.9.7
 Share Market
 Indices
 F&O
@@ -721,6 +721,7 @@ Sitemap
 About Us
 Help & Support
 Glossary
+NRI Demat Account
 Others:
 NSE
 BSE
@@ -737,6 +738,7 @@ Investor Charter and Grievance
 Bug Bounty
 Groww Pay - Terms of use
 Groww Pay - Privacy policy
+Groww IFSC
 Mutual Funds
 :
 A

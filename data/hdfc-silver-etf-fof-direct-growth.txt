@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+46.66
++46.25
 %
 3Y annualised
--0.41
++0.60
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 24 Aug '26
-₹40.01
+NAV: 26 Aug '26
+₹39.73
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -129,15 +129,15 @@ Assets
 HDFC Silver ETF Regular - Growth
 Unspecified
 Mutual Fund
-100.09%
+100.04%
 Repo
 Unspecified
 Repo
-0.30%
+0.10%
 Net Payables
 Unspecified
 Net Payables
--0.39%
+-0.14%
 Minimum investments
 Min. for 1st investment
 ₹100
@@ -159,10 +159,10 @@ Name
 3Y
 All
 Fund returns
--7.7%
-+107.8%
-+46.7%
-+44.0%
+-6.6%
++103.9%
++46.3%
++43.7%
 Category average (
 Commodities Silver
 )
@@ -174,7 +174,7 @@ Rank (
 Commodities Silver
 )
 --
-8
+10
 5
 --
 Understand terms
@@ -224,9 +224,9 @@ HDFC BSE Sensex Index Fund Direct Growth
 HDFC Equity Savings Direct Plan Growth
 HDFC Multi Asset Allocation Fund Direct Growth
 HDFC Arbitrage Fund Direct Growth
-HDFC Retirement Savings Fund Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC NIFTY 50 ETF IDCW
 HDFC NIFTY50 Equal Weight Index Fund Direct Growth
 HDFC Developed World Overseas Equity Passive FoF Direct Growth
@@ -267,9 +267,9 @@ HDFC BSE Sensex Index Fund Direct Growth
 HDFC Equity Savings Direct Plan Growth
 HDFC Multi Asset Allocation Fund Direct Growth
 HDFC Arbitrage Fund Direct Growth
-HDFC Retirement Savings Fund Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Equity Plan Direct Growth
-HDFC Retirement Savings Fund Hybrid Debt Plan Direct Growth
+HDFC Retirement Fund Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Equity Plan Direct Growth
+HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC NIFTY50 Equal Weight Index Fund Direct Growth
 HDFC Developed World Overseas Equity Passive FoF Direct Growth
 HDFC NIFTY Next 50 Index Fund Direct Growth
@@ -294,7 +294,7 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 24 Aug 2026 is ₹40.01.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 26 Aug 2026 is ₹39.73.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -374,7 +374,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-7.9.6
+7.9.7
 Share Market
 Indices
 F&O
@@ -722,6 +722,7 @@ Sitemap
 About Us
 Help & Support
 Glossary
+NRI Demat Account
 Others:
 NSE
 BSE
@@ -738,6 +739,7 @@ Investor Charter and Grievance
 Bug Bounty
 Groww Pay - Terms of use
 Groww Pay - Privacy policy
+Groww IFSC
 Mutual Funds
 :
 A
