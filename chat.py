@@ -58,8 +58,11 @@ Classification:"""
         response = llm.invoke(prompt)
         return response.content.strip().upper()
     except Exception as e:
-        if "429" in str(e) or "Too Many Requests" in str(e):
+        error_msg = str(e)
+        if "429" in error_msg or "Too Many Requests" in error_msg:
             return "RATE_LIMIT"
+        if "AuthenticationError" in type(e).__name__ or "authentication" in error_msg.lower():
+            return "AUTH_ERROR"
         raise e
 
 def generate_answer(llm, vectorstore, query):
@@ -112,9 +115,12 @@ Answer:""")
             
         return final_answer + footer
     except Exception as e:
-        if "429" in str(e) or "Too Many Requests" in str(e):
+        error_msg = str(e)
+        if "429" in error_msg or "Too Many Requests" in error_msg:
             return "⚠️ **Rate Limit Reached**: The Groq API limit (30 requests/min) was exceeded. Please wait a minute and try again!"
-        return f"An error occurred: {str(e)}"
+        if "AuthenticationError" in type(e).__name__ or "authentication" in error_msg.lower():
+            return "⚠️ **Authentication Error**: The Groq API key is invalid or missing. Please check your environment variables or Streamlit secrets."
+        return f"An error occurred: {error_msg}"
 
 def process_query(llm, vectorstore, query):
     """Unified function to handle intent classification, guardrails, and generation."""
@@ -122,6 +128,9 @@ def process_query(llm, vectorstore, query):
     
     if intent == "RATE_LIMIT":
         return "⚠️ **Rate Limit Reached**: The Groq API limit (30 requests/min) was exceeded. Please wait a minute and try again!"
+    
+    if intent == "AUTH_ERROR":
+        return "⚠️ **Authentication Error**: The Groq API key is invalid or missing. Please check your environment variables or Streamlit secrets."
     
     if "ADVISORY" in intent:
         return "I cannot provide investment advice or opinions on market movements. For educational resources on mutual fund investing, please refer to SEBI guidelines at https://investor.sebi.gov.in/"
