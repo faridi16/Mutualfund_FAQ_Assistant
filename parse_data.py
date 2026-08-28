@@ -116,9 +116,9 @@ def main():
             
         nav_date, text_blocks = parse_cleaned_content(lines)
         
-        # Prepend the fund name into the text of the key fund facts to ensure context isn't lost
-        if len(text_blocks) > 0 and text_blocks[0]["section_title"] == "Key fund facts":
-             text_blocks[0]["text"] = f"{fund_name} key fund facts. " + text_blocks[0]["text"]
+        # Prepend the fund name to ALL text blocks to ensure context isn't lost in vector search
+        for block in text_blocks:
+             block["text"] = f"{fund_name} ({block['section_title']}): " + block["text"]
         
         parsed_data = {
             "scheme_id": scheme_id,
