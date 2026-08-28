@@ -1,9 +1,33 @@
 import os
 import glob
 import json
+import requests
 from datetime import datetime
 
-def parse_cleaned_content(lines):
+MFAPI_SCHEME_CODES = {
+    "hdfc-large-cap-fund-direct-growth": 119018,
+    "hdfc-gold-etf-fund-of-fund-direct-plan-growth": 119132,
+    "hdfc-small-cap-fund-direct-growth": 130503,
+    "hdfc-silver-etf-fof-direct-growth": 150737,
+    "hdfc-mid-cap-fund-direct-growth": 118989
+}
+
+def fetch_live_nav(scheme_code):
+    try:
+        url = f"https://api.mfapi.in/mf/{scheme_code}"
+        response = requests.get(url, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        if "data" in data and len(data["data"]) > 0:
+            latest = data["data"][0]
+            date = latest.get("date", "Unknown Date")
+            nav = latest.get("nav", "Unknown NAV")
+            return f"{date}", f"₹{nav}"
+    except Exception as e:
+        print(f"Error fetching live NAV for {scheme_code}: {e}")
+    return None, None
+
+def parse_cleaned_content(lines, live_nav_date=None, live_nav_val=None):
     # Core Metrics Extraction
     nav_date = "Unknown"
     nav_val = "Unknown"
@@ -32,6 +56,10 @@ def parse_cleaned_content(lines):
         elif line == "Expense ratio" and "fee payable" not in lines[i+1]:
             if i + 1 < len(lines):
                 expense_ratio = lines[i+1]
+                
+    if live_nav_date and live_nav_val:
+        nav_date = live_nav_date
+        nav_val = live_nav_val
                 
     key_facts_text = f"NAV ({nav_date}): {nav_val}. Expense ratio: {expense_ratio}. Minimum SIP investment: {min_sip}. Fund size (AUM): {fund_size}. Riskometer Category: {risk_category}."
     
@@ -107,6 +135,15 @@ def main():
         # Generate slug/id
         slug = os.path.basename(filepath).replace('.json', '')
         
+        # Fetch live NAV if we have the scheme code
+        live_nav_date = None
+        live_nav_val = None
+        if slug in MFAPI_SCHEME_CODES:
+            scheme_code = MFAPI_SCHEME_CODES[slug]
+            live_nav_date, live_nav_val = fetch_live_nav(scheme_code)
+            if live_nav_val:
+                print(f"[{slug}] Fetched Live NAV: {live_nav_val} on {live_nav_date}")
+        
         # Format id exactly as user screenshot (e.g. "hdfc-gold-etf-fund-of-fund-direct-plan-growth" -> "gold_fof" logic is tricky for all, we will just use the slug, but let's try to map if it's the gold one)
         scheme_id = slug
         if slug == "hdfc-gold-etf-fund-of-fund-direct-plan-growth":
@@ -114,7 +151,7 @@ def main():
         elif slug == "hdfc-silver-etf-fof-direct-growth":
             scheme_id = "silver_fof"
             
-        nav_date, text_blocks = parse_cleaned_content(lines)
+        nav_date, text_blocks = parse_cleaned_content(lines, live_nav_date, live_nav_val)
         
         # Prepend the fund name to ALL text blocks to ensure context isn't lost in vector search
         for block in text_blocks:
