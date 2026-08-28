@@ -24,9 +24,9 @@ def init_models():
     """Initialize and return the LLM and Vector Database instances."""
     check_env()
     
-    # Initialize Groq LLM with the highly capable versatile model
+    # Initialize Groq LLM with a model available in the current tier
     llm = ChatGroq(
-        model="llama-3.3-70b-versatile",
+        model="qwen/qwen3.8-27b",
         temperature=0.0,
         max_tokens=250
     )
@@ -63,6 +63,8 @@ Classification:"""
             return "RATE_LIMIT"
         if "AuthenticationError" in type(e).__name__ or "authentication" in error_msg.lower():
             return "AUTH_ERROR"
+        if "NotFoundError" in type(e).__name__ or "not found" in error_msg.lower():
+            return "MODEL_NOT_FOUND"
         raise e
 
 def generate_answer(llm, vectorstore, query):
@@ -120,6 +122,8 @@ Answer:""")
             return "⚠️ **Rate Limit Reached**: The Groq API limit (30 requests/min) was exceeded. Please wait a minute and try again!"
         if "AuthenticationError" in type(e).__name__ or "authentication" in error_msg.lower():
             return "⚠️ **Authentication Error**: The Groq API key is invalid or missing. Please check your environment variables or Streamlit secrets."
+        if "NotFoundError" in type(e).__name__ or "not found" in error_msg.lower():
+            return "⚠️ **Model Not Found**: The requested LLM model is not available. Please check the model name in your code."
         return f"An error occurred: {error_msg}"
 
 def process_query(llm, vectorstore, query):
@@ -131,6 +135,9 @@ def process_query(llm, vectorstore, query):
     
     if intent == "AUTH_ERROR":
         return "⚠️ **Authentication Error**: The Groq API key is invalid or missing. Please check your environment variables or Streamlit secrets."
+        
+    if intent == "MODEL_NOT_FOUND":
+        return "⚠️ **Model Not Found**: The requested LLM model is not available. Please check the model name in your code."
     
     if "ADVISORY" in intent:
         return "I cannot provide investment advice or opinions on market movements. For educational resources on mutual fund investing, please refer to SEBI guidelines at https://investor.sebi.gov.in/"
