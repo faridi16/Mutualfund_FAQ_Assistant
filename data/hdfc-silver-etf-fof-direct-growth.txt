@@ -174,8 +174,8 @@ Rank (
 Commodities Silver
 )
 --
-9
-3
+10
+4
 --
 Understand terms
 Expense ratio

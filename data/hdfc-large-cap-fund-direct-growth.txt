@@ -355,8 +355,8 @@ Equity Large Cap
 Rank (
 Equity Large Cap
 )
-42
-14
+43
+15
 12
 --
 Understand terms
