@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+10.61
++10.44
 %
 3Y annualised
-+0.08
+-0.44
 %
 1D
 1M
@@ -78,14 +78,14 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 08 Sep '26
-₹160.59
+NAV: 09 Sep '26
+₹159.88
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹41,679.00 Cr
+₹41,890.86 Cr
 Expense ratio
-0.75%
+0.76%
 Rating
 3
 Return calculator
@@ -492,8 +492,8 @@ Name
 10Y
 All
 Fund returns
-+10.6%
-+15.5%
++10.4%
++15.4%
 +17.4%
 +18.4%
 Category average (
@@ -543,25 +543,25 @@ Name
 3Y
 Fund Size(Cr)
 ITI Small Cap Fund Direct Growth
-+25.39%
-+25.36%
++24.29%
++25.19%
 3,454.00
 Bandhan Small Cap Fund Direct Growth
-+14.85%
-+24.85%
++14.47%
++24.71%
 31,103.03
 Invesco India Small Cap Fund Direct Growth
-+18.61%
-+22.79%
++18.33%
++22.76%
 15,799.46
 Sundaram Small Cap Fund Direct Growth
-+18.72%
-+17.20%
++17.73%
++16.99%
 3,922.31
 Nippon India Small Cap Fund Direct Growth
-+12.01%
-+15.05%
-78,956.77
++11.10%
++14.84%
+82,580.31
 Compare
 Fund management
 DM
@@ -635,7 +635,7 @@ HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC Children's Fund Direct Plan
 About
 HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 08 Sep 2026 is ₹160.59.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,67,910 Cr and the Latest NAV as of 09 Sep 2026 is ₹159.88.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
