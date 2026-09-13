@@ -128,15 +128,15 @@ Assets
 HDFC Silver ETF Regular - Growth
 Unspecified
 Mutual Fund
-100.04%
+100.29%
 Repo
 Unspecified
 Repo
-0.10%
+0.30%
 Net Payables
 Unspecified
 Net Payables
--0.14%
+-0.59%
 Minimum investments
 Min. for 1st investment
 ₹100
@@ -173,7 +173,7 @@ Rank (
 Commodities Silver
 )
 --
-10
+7
 5
 --
 Understand terms
