@@ -174,8 +174,8 @@ Commodities Gold
 Rank (
 Commodities Gold
 )
-7
-6
+8
+5
 3
 --
 Understand terms

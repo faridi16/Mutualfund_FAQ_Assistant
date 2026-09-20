@@ -66,7 +66,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+10.35
++10.95
 %
 3Y annualised
 +1.20
@@ -98,27 +98,27 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹61,192
+₹61,856
 +
-1.99
+3.09
 %
 3 years
 ₹1,80,000
-₹1,94,329
+₹1,96,575
 +
-7.96
+9.21
 %
 5 years
 ₹3,00,000
-₹4,13,749
+₹4,18,536
 +
-37.92
+39.51
 %
 10 years
 ₹6,00,000
-₹15,25,854
+₹15,43,823
 +
-154.31
+157.30
 %
 Holdings (
 87
@@ -497,17 +497,17 @@ Name
 10Y
 All
 Fund returns
-+10.3%
-+14.6%
-+17.6%
-+18.3%
++10.9%
++14.8%
++17.7%
++18.4%
 Category average (
 Equity Small Cap
 )
-+15.7%
-+16.4%
-+17.9%
-+20.3%
++16.6%
++16.7%
++18.1%
++20.5%
 Rank (
 Equity Small Cap
 )
