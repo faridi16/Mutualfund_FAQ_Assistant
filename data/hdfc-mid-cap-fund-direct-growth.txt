@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+17.41
++17.58
 %
 3Y annualised
--0.32
++0.50
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 22 Sep '26
-₹229.93
+NAV: 23 Sep '26
+₹231.07
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -473,9 +473,9 @@ Name
 10Y
 All
 Fund returns
-+17.4%
-+18.8%
-+17.2%
++17.6%
++18.6%
++17.3%
 +20.0%
 Category average (
 Equity Mid Cap
@@ -487,7 +487,7 @@ Equity Mid Cap
 Rank (
 Equity Mid Cap
 )
-15
+16
 4
 8
 --
@@ -518,24 +518,24 @@ Name
 3Y
 Fund Size(Cr)
 Invesco India Mid Cap Fund Direct Growth
-+9.88%
-+24.54%
++10.87%
++24.80%
 15,905.31
 WhiteOak Capital Mid Cap Fund Direct Growth
-+13.77%
-+22.27%
++14.86%
++22.54%
 7,485.37
 Edelweiss Mid Cap Direct Plan Growth
-+6.89%
-+21.47%
++7.85%
++21.70%
 19,891.00
 Nippon India Growth Mid Cap Fund Direct Growth
-+6.87%
-+18.56%
++7.68%
++18.75%
 52,270.55
 HDFC Mid Cap Fund Direct Growth
-+6.25%
-+17.41%
++7.02%
++17.58%
 1,08,324.55
 Compare
 Fund management
@@ -609,7 +609,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC Mid Cap Fund Direct Growth
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 22 Sep 2026 is ₹229.93.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 23 Sep 2026 is ₹231.07.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 ;
 Investment Objective
