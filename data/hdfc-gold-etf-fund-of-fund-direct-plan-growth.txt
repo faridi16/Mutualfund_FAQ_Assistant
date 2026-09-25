@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+35.27
++34.78
 %
 3Y annualised
--0.25
+-1.01
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 23 Sep '26
-₹47.05
+NAV: 24 Sep '26
+₹46.58
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -98,27 +98,27 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹64,084
+₹63,491
 +
-6.81
+5.82
 %
 3 years
 ₹1,80,000
-₹2,95,538
+₹2,92,412
 +
-64.19
+62.45
 %
 5 years
 ₹3,00,000
-₹6,20,754
+₹6,14,085
 +
-106.92
+104.70
 %
 10 years
 ₹6,00,000
-₹18,08,678
+₹17,89,472
 +
-201.45
+198.25
 %
 Holdings (
 3
@@ -160,10 +160,10 @@ Name
 10Y
 All
 Fund returns
-+35.3%
-+25.3%
-+15.9%
-+11.1%
++34.8%
++25.2%
++15.8%
++11.0%
 Category average (
 Commodities Gold
 )
@@ -295,7 +295,7 @@ HDFC Nifty Metal ETF FoF Direct Growth
 HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 About
 HDFC Gold ETF Fund of Fund Direct Plan Growth
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 23 Sep 2026 is ₹47.05.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 24 Sep 2026 is ₹46.58.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -375,7 +375,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.0.2
+8.0.3
 Share Market
 Indices
 F&O
