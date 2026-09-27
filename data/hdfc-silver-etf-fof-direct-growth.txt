@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+43.56
++44.40
 %
 3Y annualised
--2.02
++1.38
 %
 1D
 1M
@@ -97,26 +97,26 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹15,154
+₹15,268
 +
-1.03
+1.79
 %
 6 months
 ₹30,000
-₹29,252
--2.49
+₹29,565
+-1.45
 %
 1 year
 ₹60,000
-₹63,966
+₹64,719
 +
-6.61
+7.87
 %
 3 years
 ₹1,80,000
-₹3,59,387
+₹3,63,760
 +
-99.66
+102.09
 %
 Holdings (
 3
@@ -158,22 +158,22 @@ Name
 3Y
 All
 Fund returns
-+1.3%
-+64.3%
-+43.6%
-+40.3%
+-1.4%
++63.7%
++44.4%
++40.7%
 Category average (
 Commodities Silver
 )
-+1.4%
-+69.4%
-+44.7%
-+31.5%
+-1.2%
++68.5%
++45.6%
++31.9%
 Rank (
 Commodities Silver
 )
 --
-11
+9
 5
 --
 Understand terms
