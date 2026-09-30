@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+43.57
++43.04
 %
 3Y annualised
--3.81
+-0.62
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 28 Sep '26
-₹36.31
+NAV: 29 Sep '26
+₹36.08
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -97,25 +97,25 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹14,942
--0.39
+₹14,894
+-0.71
 %
 6 months
 ₹30,000
-₹28,744
--4.19
+₹28,625
+-4.58
 %
 1 year
 ₹60,000
-₹62,506
+₹62,159
 +
-4.18
+3.60
 %
 3 years
 ₹1,80,000
-₹3,49,236
+₹3,46,799
 +
-94.02
+92.67
 %
 Holdings (
 3
@@ -157,10 +157,10 @@ Name
 3Y
 All
 Fund returns
--0.5%
-+56.1%
-+43.6%
-+39.3%
+-1.2%
++48.4%
++43.0%
++39.0%
 Category average (
 Commodities Silver
 )
@@ -172,8 +172,8 @@ Rank (
 Commodities Silver
 )
 --
-9
-6
+8
+4
 --
 Understand terms
 Expense ratio
@@ -294,7 +294,7 @@ HDFC Nifty Metal ETF FoF Direct Growth
 HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 28 Sep 2026 is ₹36.31.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 29 Sep 2026 is ₹36.08.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -374,7 +374,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.0.3
+8.0.4
 Share Market
 Indices
 F&O
@@ -707,6 +707,7 @@ NFO
 Pricing
 Trust & Safety
 Groww Digest
+Minor Demat Account
 Intraday
 Blog
 Investor Relations
