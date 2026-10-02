@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+43.18
++42.93
 %
 3Y annualised
-+0.29
+-0.43
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 30 Sep '26
-₹36.19
+NAV: 01 Oct '26
+₹36.03
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -97,25 +97,25 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹14,918
--0.55
+₹14,842
+-1.05
 %
 6 months
 ₹30,000
-₹28,698
--4.34
+₹28,460
+-5.13
 %
 1 year
 ₹60,000
-₹62,300
+₹60,036
 +
-3.83
+0.06
 %
 3 years
 ₹1,80,000
-₹3,47,367
+₹3,47,204
 +
-92.98
+92.89
 %
 Holdings (
 3
@@ -157,10 +157,10 @@ Name
 3Y
 All
 Fund returns
--3.4%
-+52.0%
-+43.2%
-+39.1%
+-7.6%
++48.0%
++42.9%
++38.9%
 Category average (
 Commodities Silver
 )
@@ -173,7 +173,7 @@ Commodities Silver
 )
 --
 7
-5
+4
 --
 Understand terms
 Expense ratio
@@ -294,7 +294,7 @@ HDFC Nifty Metal ETF FoF Direct Growth
 HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 30 Sep 2026 is ₹36.19.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 01 Oct 2026 is ₹36.03.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
