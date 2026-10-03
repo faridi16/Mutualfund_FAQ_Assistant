@@ -503,14 +503,14 @@ Fund returns
 Category average (
 Equity Small Cap
 )
-+16.8%
-+16.4%
-+17.8%
-+20.4%
++15.2%
++15.7%
++17.6%
++20.1%
 Rank (
 Equity Small Cap
 )
-30
+34
 18
 5
 --

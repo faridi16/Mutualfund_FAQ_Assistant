@@ -354,16 +354,16 @@ Fund returns
 Category average (
 Equity Large Cap
 )
-+10.3%
-+8.7%
-+11.9%
-+12.7%
++9.1%
++8.4%
++11.8%
++12.4%
 Rank (
 Equity Large Cap
 )
-40
-18
-13
+45
+20
+14
 --
 Understand terms
 Expense ratio
