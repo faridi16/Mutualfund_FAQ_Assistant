@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+15.74
++15.53
 %
 3Y annualised
-+0.70
+-0.52
 %
 1D
 1M
@@ -78,8 +78,8 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 06 Oct '26
-₹222.03
+NAV: 07 Oct '26
+₹220.87
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -98,26 +98,26 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹59,898
--0.17
+₹59,597
+-0.67
 %
 3 years
 ₹1,80,000
-₹2,00,611
+₹1,99,541
 +
-11.45
+10.86
 %
 5 years
 ₹3,00,000
-₹4,46,628
+₹4,44,189
 +
-48.88
+48.06
 %
 10 years
 ₹6,00,000
-₹15,93,091
+₹15,84,628
 +
-165.52
+164.10
 %
 Holdings (
 81
@@ -472,8 +472,8 @@ Name
 10Y
 All
 Fund returns
-+15.7%
-+17.6%
++15.5%
++17.1%
 +16.5%
 +19.6%
 Category average (
@@ -517,24 +517,24 @@ Name
 3Y
 Fund Size(Cr)
 HSBC Midcap Fund Direct Growth
-+16.03%
-+22.82%
++14.88%
++22.62%
 17,188.23
 Invesco India Mid Cap Fund Direct Growth
-+6.61%
-+22.40%
-15,905.31
++5.89%
++22.18%
+15,779.54
 WhiteOak Capital Mid Cap Fund Direct Growth
-+11.12%
-+20.78%
++10.44%
++20.70%
 7,485.36
 Edelweiss Mid Cap Direct Plan Growth
-+4.37%
-+19.82%
++3.61%
++19.65%
 19,890.99
 Nippon India Growth Mid Cap Fund Direct Growth
-+5.16%
-+17.43%
++4.71%
++17.31%
 52,270.55
 Compare
 Fund management
@@ -608,7 +608,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC Mid Cap Fund Direct Growth
-HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 06 Oct 2026 is ₹222.03.
+HDFC Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Chirag Setalvad is the Current Fund Manager of HDFC Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 07 Oct 2026 is ₹220.87.
 The HDFC Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year.
 ;
 Investment Objective
