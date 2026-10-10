@@ -69,7 +69,7 @@ Loan against securities and Personal loan
 +35.62
 %
 3Y annualised
--0.14
++1.43
 %
 1D
 1M
@@ -78,12 +78,12 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 08 Oct '26
-₹45.62
+NAV: 09 Oct '26
+₹46.27
 Min. for SIP
 ₹100
 Fund size (AUM)
-₹12,359.15 Cr
+₹12,013.27 Cr
 Expense ratio
 0.20%
 Rating
@@ -130,15 +130,15 @@ Assets
 HDFC Gold ETF
 Unspecified
 Mutual Fund
-100.07%
+100.12%
 Repo
 Unspecified
 Repo
-0.11%
+0.13%
 Net Payables
 Unspecified
 Net Payables
--0.18%
+-0.25%
 Minimum investments
 Min. for 1st investment
 ₹100
@@ -167,10 +167,10 @@ Fund returns
 Category average (
 Commodities Gold
 )
-+36.6%
-+25.8%
-+16.6%
-+12.8%
++37.3%
++25.5%
++16.9%
++12.7%
 Rank (
 Commodities Gold
 )
@@ -297,7 +297,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 About
 HDFC Gold ETF Fund of Fund Direct Plan Growth
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 08 Oct 2026 is ₹45.62.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 09 Oct 2026 is ₹46.27.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
