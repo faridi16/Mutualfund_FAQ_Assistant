@@ -66,7 +66,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+9.05
++9.71
 %
 3Y annualised
 +0.47
@@ -98,26 +98,26 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹59,473
--0.88
+₹59,741
+-0.43
 %
 3 years
 ₹1,80,000
-₹1,86,804
+₹1,87,666
 +
-3.78
+4.26
 %
 5 years
 ₹3,00,000
-₹3,97,094
+₹3,98,818
 +
-32.36
+32.94
 %
 10 years
 ₹6,00,000
-₹14,64,636
+₹14,70,095
 +
-144.11
+145.02
 %
 Holdings (
 87
@@ -496,15 +496,15 @@ Name
 10Y
 All
 Fund returns
-+9.1%
-+12.9%
-+16.8%
++9.7%
++13.0%
++16.9%
 +17.9%
 Category average (
 Equity Small Cap
 )
-+14.6%
-+14.7%
++15.4%
++14.8%
 +17.2%
 +20.0%
 Rank (
@@ -547,24 +547,24 @@ Name
 3Y
 Fund Size(Cr)
 ITI Small Cap Fund Direct Growth
-+17.48%
-+22.37%
++17.78%
++23.30%
 3,602.84
 Bandhan Small Cap Fund Direct Growth
-+9.19%
-+22.06%
++9.64%
++23.05%
 34,176.02
 Invesco India Small Cap Fund Direct Growth
-+11.39%
-+20.83%
++11.66%
++21.52%
 16,175.35
 Sundaram Small Cap Fund Direct Growth
-+10.45%
-+14.69%
-4,155.35
++11.26%
++15.48%
+4,106.98
 Nippon India Small Cap Fund Direct Growth
-+6.68%
-+13.77%
++7.31%
++14.58%
 80,905.55
 Compare
 Fund management
