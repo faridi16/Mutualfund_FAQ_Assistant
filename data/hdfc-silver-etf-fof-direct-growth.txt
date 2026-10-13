@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+44.07
++43.64
 %
 3Y annualised
-+1.81
+-0.45
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 09 Oct '26
-₹36.17
+NAV: 12 Oct '26
+₹36.01
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -97,25 +97,19 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹14,922
--0.52
+₹14,878
+-0.81
 %
 6 months
 ₹30,000
-₹28,708
--4.31
-%
-1 year
-₹60,000
-₹60,258
-+
-0.43
+₹28,639
+-4.54
 %
 3 years
 ₹1,80,000
-₹3,45,463
+₹3,42,842
 +
-91.92
+90.47
 %
 Holdings (
 3
@@ -157,10 +151,10 @@ Name
 3Y
 All
 Fund returns
--6.5%
-+28.7%
-+44.1%
-+38.8%
+-8.2%
++32.0%
++43.6%
++38.5%
 Category average (
 Commodities Silver
 )
@@ -173,7 +167,7 @@ Commodities Silver
 )
 --
 10
-5
+7
 --
 Understand terms
 Expense ratio
@@ -296,7 +290,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 09 Oct 2026 is ₹36.17.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 12 Oct 2026 is ₹36.01.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -309,7 +303,7 @@ HDFC Mutual Fund
 Rank (total assets)
 #2 in India
 Total AUM
-₹9,86,236.84 Cr
+₹9,34,075.66 Cr
 Date of Incorporation
 10 Dec 1999
 Phone
@@ -376,7 +370,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.0.5
+8.0.6
 Share Market
 Indices
 F&O
