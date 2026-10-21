@@ -163,10 +163,10 @@ Fund returns
 Category average (
 Commodities Silver
 )
--15.9%
-+29.1%
-+42.5%
-+28.9%
+-17.0%
++25.8%
++41.7%
++28.6%
 Rank (
 Commodities Silver
 )

@@ -479,10 +479,10 @@ Fund returns
 Category average (
 Equity Mid Cap
 )
-+14.2%
++14.0%
 +13.2%
-+15.7%
-+18.2%
++15.6%
++18.1%
 Rank (
 Equity Mid Cap
 )
@@ -519,7 +519,7 @@ Fund Size(Cr)
 Invesco India Mid Cap Fund Direct Growth
 +0.89%
 +21.07%
-15,748.82
+15,748.83
 HSBC Midcap Fund Direct Growth
 +10.76%
 +20.98%
@@ -527,11 +527,11 @@ HSBC Midcap Fund Direct Growth
 WhiteOak Capital Mid Cap Fund Direct Growth
 +6.35%
 +19.66%
-8,399.70
+8,399.71
 Edelweiss Mid Cap Direct Plan Growth
 +1.11%
 +18.84%
-19,230.15
+19,230.16
 Nippon India Growth Mid Cap Fund Direct Growth
 +1.23%
 +16.10%
