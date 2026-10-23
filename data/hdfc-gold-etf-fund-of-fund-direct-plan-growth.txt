@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+31.76
++31.42
 %
 3Y annualised
--1.45
+-0.68
 %
 1D
 1M
@@ -78,10 +78,10 @@ Loan against securities and Personal loan
 3Y
 5Y
 All
-NAV: 21 Oct '26
-₹44.55
+NAV: 22 Oct '26
+₹44.25
 Min. for SIP
-Not Supported
+--
 Fund size (AUM)
 ₹12,013.27 Cr
 Expense ratio
@@ -109,11 +109,11 @@ Net Payables
 -0.25%
 Minimum investments
 Min. for 1st investment
-Not Supported
+--
 Min. for 2nd investment
-Not Supported
+--
 Min. for SIP
-Not Supported
+--
 Understand terms
 Annualised returns
 Average of the yearly returns of a mutual fund over a given period.
@@ -128,9 +128,9 @@ Name
 10Y
 All
 Fund returns
-+31.8%
-+23.5%
-+15.7%
++31.4%
++23.2%
++15.6%
 +10.6%
 Category average (
 Commodities Gold
@@ -142,8 +142,8 @@ Commodities Gold
 Rank (
 Commodities Gold
 )
-4
 5
+6
 4
 --
 Understand terms
@@ -265,7 +265,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 About
 HDFC Gold ETF Fund of Fund Direct Plan Growth
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 21 Oct 2026 is ₹44.55.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 22 Oct 2026 is ₹44.25.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk. Minimum SIP Investment is set to ₹100.  Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -345,7 +345,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.0.6
+8.1.1
 Share Market
 Indices
 F&O
