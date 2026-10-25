@@ -66,7 +66,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+31.42
++30.86
 %
 3Y annualised
 -1.25
@@ -128,22 +128,22 @@ Name
 10Y
 All
 Fund returns
-+31.4%
-+23.2%
-+15.6%
-+10.6%
++30.9%
++22.9%
++15.5%
++10.5%
 Category average (
 Commodities Gold
 )
-+33.1%
-+24.1%
-+16.6%
-+12.5%
++32.7%
++23.8%
++16.5%
++12.4%
 Rank (
 Commodities Gold
 )
+8
 5
-6
 4
 --
 Understand terms

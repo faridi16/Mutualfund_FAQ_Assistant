@@ -66,7 +66,7 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+7.38
++7.54
 %
 3Y annualised
 -0.99
@@ -98,25 +98,25 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹56,748
--5.42
+₹56,269
+-6.22
 %
 3 years
 ₹1,80,000
-₹1,75,988
--2.23
+₹1,74,338
+-3.15
 %
 5 years
 ₹3,00,000
-₹3,50,485
+₹3,47,006
 +
-16.83
+15.67
 %
 10 years
 ₹6,00,000
-₹10,62,926
+₹10,52,400
 +
-77.15
+75.40
 %
 Holdings (
 49
@@ -343,23 +343,23 @@ Name
 10Y
 All
 Fund returns
-+7.4%
-+8.6%
-+11.5%
-+12.4%
++7.5%
++8.4%
++11.4%
++12.3%
 Category average (
 Equity Large Cap
 )
-+9.3%
-+7.8%
-+11.7%
-+12.4%
++9.6%
++7.6%
++11.6%
++12.3%
 Rank (
 Equity Large Cap
 )
 50
-22
-14
+23
+13
 --
 Understand terms
 Expense ratio
@@ -392,24 +392,24 @@ Name
 3Y
 Fund Size(Cr)
 Invesco India Large Cap Fund Direct Growth
--4.58%
-+12.45%
+-5.67%
++12.70%
 1,925.14
 Bandhan Large Cap Fund Direct Growth
--6.39%
-+11.68%
+-7.20%
++12.06%
 2,097.65
 Nippon India Large Cap Fund Direct Growth
--9.52%
-+9.74%
+-10.45%
++10.07%
 51,296.06
 ICICI Prudential Large Cap Fund Direct Growth
--10.34%
-+9.33%
+-11.07%
++9.56%
 76,352.23
 HDFC Large Cap Fund Direct Growth
--9.45%
-+7.38%
+-10.26%
++7.54%
 37,293.95
 Compare
 Fund management
