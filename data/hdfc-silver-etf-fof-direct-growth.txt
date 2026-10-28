@@ -66,10 +66,10 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+37.24
++36.72
 %
 3Y annualised
-+0.61
+-1.78
 %
 1D
 1M
@@ -77,8 +77,8 @@ Loan against securities and Personal loan
 1Y
 3Y
 All
-NAV: 26 Oct '26
-₹31.87
+NAV: 27 Oct '26
+₹31.31
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -97,24 +97,24 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹13,942
--7.05
+₹13,828
+-7.81
 %
 6 months
 ₹30,000
-₹26,308
--12.31
+₹25,998
+-13.34
 %
 1 year
 ₹60,000
-₹53,952
--10.08
+₹53,152
+-11.41
 %
 3 years
 ₹1,80,000
-₹3,00,341
+₹2,94,991
 +
-66.86
+63.88
 %
 Holdings (
 3
@@ -156,10 +156,10 @@ Name
 3Y
 All
 Fund returns
--19.1%
-+32.3%
-+37.2%
-+33.9%
+-21.5%
++30.2%
++36.7%
++33.3%
 Category average (
 Commodities Silver
 )
@@ -171,7 +171,7 @@ Rank (
 Commodities Silver
 )
 --
-8
+9
 5
 --
 Understand terms
@@ -295,7 +295,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 26 Oct 2026 is ₹31.87.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 27 Oct 2026 is ₹31.31.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -375,7 +375,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.1
+8.1.2
 Share Market
 Indices
 F&O
