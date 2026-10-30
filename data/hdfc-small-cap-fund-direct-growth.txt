@@ -66,20 +66,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+9.35
++9.46
 %
 3Y annualised
-+0.12
++0.32
 %
 1D
-1M
-6M
-1Y
-3Y
-5Y
-All
-NAV: 28 Oct '26
-₹150.90
+NAV: 29 Oct '26
+₹151.38
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -98,26 +92,26 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹58,579
--2.37
+₹58,747
+-2.09
 %
 3 years
 ₹1,80,000
-₹1,83,301
+₹1,83,833
 +
-1.83
+2.13
 %
 5 years
 ₹3,00,000
-₹3,87,734
+₹3,88,858
 +
-29.24
+29.62
 %
 10 years
 ₹6,00,000
-₹14,25,485
+₹14,29,275
 +
-137.58
+138.21
 %
 Holdings (
 87
@@ -474,7 +468,6 @@ Net Payables
 Unspecified
 Net Payables
 -0.10%
-See All
 Minimum investments
 Min. for 1st investment
 ₹100
@@ -488,16 +481,14 @@ Average of the yearly returns of a mutual fund over a given period.
 Absolute returns
 The total return of a mutual fund over a given period.
 Returns and rankings
-Annualised returns
-Absolute returns
 Name
 3Y
 5Y
 10Y
 All
 Fund returns
-+9.3%
-+13.3%
++9.5%
++13.5%
 +16.6%
 +17.7%
 Category average (
@@ -540,39 +531,33 @@ Stamp duty on investment:
 from July 1st 2020
 Tax implication
 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
-Check past data
 Compare similar funds
 Name
 1Y
 3Y
 Fund Size(Cr)
 Bandhan Small Cap Fund Direct Growth
-+2.58%
-+22.34%
++2.47%
++22.53%
 35,855.60
 ITI Small Cap Fund Direct Growth
-+11.47%
-+22.09%
++12.66%
++22.52%
 3,666.32
 Invesco India Small Cap Fund Direct Growth
-+6.37%
-+20.32%
++6.93%
++20.65%
 16,130.64
 Sundaram Small Cap Fund Direct Growth
-+4.79%
-+14.59%
++5.13%
++14.82%
 4,106.99
 Nippon India Small Cap Fund Direct Growth
-+1.33%
-+13.44%
++1.35%
++13.68%
 80,905.55
 Compare
 Fund management
-DM
-Dhruv Muchhal
-Jun 2023
-- Present
-View details
 Education
 Mr. Dhruv has done B.Com, CA and CFA
 Experience
@@ -620,11 +605,6 @@ HDFC Pharma And Healthcare Fund Direct Growth
 HDFC Manufacturing Fund Direct Growth
 HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
-CS
-Chirag Setalvad
-Jun 2014
-- Present
-View details
 Education
 Mr. Setalvad is a B. Sc and MBA from University of North Carolina.
 Experience
@@ -638,7 +618,7 @@ HDFC Retirement Fund Hybrid Debt Plan Direct Growth
 HDFC Children's Fund Direct Plan
 About
 HDFC Small Cap Fund Direct Growth
-HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 28 Oct 2026 is ₹150.90.
+HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 29 Oct 2026 is ₹151.38.
 The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
@@ -718,7 +698,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.2
+8.1.4
 Share Market
 Indices
 F&O

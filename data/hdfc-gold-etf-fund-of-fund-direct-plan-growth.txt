@@ -66,20 +66,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+31.17
++30.87
 %
 3Y annualised
-+1.21
+-0.61
 %
 1D
-1M
-6M
-1Y
-3Y
-5Y
-All
-NAV: 28 Oct '26
-₹44.14
+NAV: 29 Oct '26
+₹43.87
 Min. for SIP
 --
 Fund size (AUM)
@@ -120,17 +114,15 @@ Average of the yearly returns of a mutual fund over a given period.
 Absolute returns
 The total return of a mutual fund over a given period.
 Returns and rankings
-Annualised returns
-Absolute returns
 Name
 3Y
 5Y
 10Y
 All
 Fund returns
-+31.2%
-+23.1%
-+15.6%
++30.9%
++22.9%
++15.5%
 +10.5%
 Category average (
 Commodities Gold
@@ -143,7 +135,7 @@ Rank (
 Commodities Gold
 )
 6
-6
+4
 2
 --
 Understand terms
@@ -172,13 +164,7 @@ Stamp duty on investment:
 from July 1st 2020
 Tax implication
 If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.
-Check past data
 Fund management
-AA
-Arun Agarwal
-Feb 2023
-- Present
-View details
 Education
 Mr. Agarwal is a B.Com. and Chartered Accountant
 Experience
@@ -219,11 +205,6 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
-NM
-Nandita Menezes
-Mar 2025
-- Present
-View details
 Education
 CA (ICAI, INDIA), B.Com (University of Mumbai)
 Experience
@@ -265,7 +246,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 About
 HDFC Gold ETF Fund of Fund Direct Plan Growth
-HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 28 Oct 2026 is ₹44.14.
+HDFC Gold ETF Fund of Fund Direct Plan Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Gold ETF Fund of Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 29 Oct 2026 is ₹43.87.
 The HDFC Gold ETF Fund of Fund Direct Plan Growth is rated High risk.   Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -345,7 +326,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.2
+8.1.4
 Share Market
 Indices
 F&O

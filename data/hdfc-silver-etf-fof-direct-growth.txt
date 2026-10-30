@@ -66,19 +66,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+37.26
++36.23
 %
 3Y annualised
-+1.27
+-2.16
 %
 1D
-1M
-6M
-1Y
-3Y
-All
-NAV: 28 Oct '26
-₹31.71
+NAV: 29 Oct '26
+₹31.02
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -97,24 +92,24 @@ Historic returns
 Returns
 3 months
 ₹15,000
-₹13,940
--7.07
+₹13,802
+-7.99
 %
 6 months
 ₹30,000
-₹26,276
--12.41
+₹25,898
+-13.67
 %
 1 year
 ₹60,000
-₹53,766
--10.39
+₹52,802
+-12.00
 %
 3 years
 ₹1,80,000
-₹2,98,318
+₹2,91,905
 +
-65.73
+62.17
 %
 Holdings (
 3
@@ -148,18 +143,16 @@ Average of the yearly returns of a mutual fund over a given period.
 Absolute returns
 The total return of a mutual fund over a given period.
 Returns and rankings
-Annualised returns
-Absolute returns
 Name
 6M
 1Y
 3Y
 All
 Fund returns
--18.3%
-+37.0%
-+37.3%
-+33.7%
+-19.9%
++26.5%
++36.2%
++32.9%
 Category average (
 Commodities Silver
 )
@@ -171,7 +164,7 @@ Rank (
 Commodities Silver
 )
 --
-7
+8
 5
 --
 Understand terms
@@ -202,13 +195,7 @@ Stamp duty on investment:
 from July 1st 2020
 Tax implication
 If you redeem within two years, returns are taxed as per your Income Tax slab. If you redeem after two years, returns are taxed at 12.5%.
-Check past data
 Fund management
-AA
-Arun Agarwal
-Feb 2023
-- Present
-View details
 Education
 Mr. Agarwal is a B.Com. and Chartered Accountant
 Experience
@@ -249,11 +236,6 @@ HDFC Nifty Auto Index Fund Direct Growth
 HDFC Nifty Metal ETF FoF Direct Growth
 HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
-NM
-Nandita Menezes
-Mar 2025
-- Present
-View details
 Education
 CA (ICAI, INDIA), B.Com (University of Mumbai)
 Experience
@@ -295,7 +277,7 @@ HDFC BSE REITS and Commercial Real Estate Index Fund Direct Growth
 HDFC Nifty LargeMidcap250 Plus 8 13 Yr G Sec 70 30 Index Fund Direct Growth
 About
 HDFC Silver ETF FoF Direct Growth
-HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 28 Oct 2026 is ₹31.71.
+HDFC Silver ETF FoF Direct Growth is a Commodities Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Arun Agarwal is the Current Fund Manager of HDFC Silver ETF FoF Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 29 Oct 2026 is ₹31.02.
 The HDFC Silver ETF FoF Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1%, if redeemed within 15 days.
 ;
 Investment Objective
@@ -375,7 +357,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.2
+8.1.4
 Share Market
 Indices
 F&O

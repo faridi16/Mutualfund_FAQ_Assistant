@@ -66,20 +66,14 @@ Brokerage and charges on Groww
 Blog
 Credit
 Loan against securities and Personal loan
-+8.22
++8.64
 %
 3Y annualised
--0.04
++1.21
 %
 1D
-1M
-6M
-1Y
-3Y
-5Y
-All
-NAV: 28 Oct '26
-₹1,147.90
+NAV: 29 Oct '26
+₹1,161.81
 Min. for SIP
 ₹100
 Fund size (AUM)
@@ -98,25 +92,25 @@ Historic returns
 Returns
 1 year
 ₹60,000
-₹56,969
--5.05
+₹57,574
+-4.04
 %
 3 years
 ₹1,80,000
-₹1,76,454
--1.97
+₹1,78,482
+-0.84
 %
 5 years
 ₹3,00,000
-₹3,50,997
+₹3,55,029
 +
-17.00
+18.34
 %
 10 years
 ₹6,00,000
-₹10,64,041
+₹10,76,382
 +
-77.34
+79.40
 %
 Holdings (
 49
@@ -321,7 +315,6 @@ Net Payables
 Unspecified
 Net Payables
 -0.07%
-See All
 Minimum investments
 Min. for 1st investment
 ₹100
@@ -335,18 +328,16 @@ Average of the yearly returns of a mutual fund over a given period.
 Absolute returns
 The total return of a mutual fund over a given period.
 Returns and rankings
-Annualised returns
-Absolute returns
 Name
 3Y
 5Y
 10Y
 All
 Fund returns
-+8.2%
-+9.1%
-+11.6%
-+12.4%
++8.6%
++9.5%
++11.8%
++12.5%
 Category average (
 Equity Large Cap
 )
@@ -358,8 +349,8 @@ Rank (
 Equity Large Cap
 )
 50
-21
-13
+19
+12
 --
 Understand terms
 Expense ratio
@@ -385,39 +376,33 @@ Stamp duty on investment:
 from July 1st 2020
 Tax implication
 If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
-Check past data
 Compare similar funds
 Name
 1Y
 3Y
 Fund Size(Cr)
 Invesco India Large Cap Fund Direct Growth
--3.76%
-+13.61%
+-3.14%
++13.94%
 1,925.14
 Bandhan Large Cap Fund Direct Growth
--6.55%
-+12.62%
+-6.11%
++13.04%
 2,097.65
 Nippon India Large Cap Fund Direct Growth
--9.70%
-+10.65%
+-9.48%
++10.97%
 51,296.06
 ICICI Prudential Large Cap Fund Direct Growth
--10.63%
-+10.12%
+-10.42%
++10.38%
 76,352.23
 HDFC Large Cap Fund Direct Growth
--9.28%
-+8.22%
+-8.76%
++8.64%
 37,293.95
 Compare
 Fund management
-RB
-Rahul Baijal
-Jul 2022
-- Present
-View details
 Education
 Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering
 Experience
@@ -426,11 +411,6 @@ Also manages these schemes
 HDFC Large Cap Fund Direct Growth
 HDFC Business Cycle Fund Direct Growth
 HDFC Defence Fund Direct Growth
-DM
-Dhruv Muchhal
-Jun 2023
-- Present
-View details
 Education
 Mr. Dhruv has done B.Com, CA and CFA
 Experience
@@ -480,7 +460,7 @@ HDFC Children's Fund Direct Plan
 HDFC Innovation Fund Direct Growth
 About
 HDFC Large Cap Fund Direct Growth
-HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 28 Oct 2026 is ₹1,147.90.
+HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,34,076 Cr and the Latest NAV as of 29 Oct 2026 is ₹1,161.81.
 The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year
 ;
 Investment Objective
@@ -560,7 +540,7 @@ Credit
 2026
 Groww. All rights reserved.
 Version:
-8.1.2
+8.1.4
 Share Market
 Indices
 F&O
